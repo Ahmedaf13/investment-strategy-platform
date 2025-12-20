@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Data cache (large files)
+data/cache/
+
+# Logs
+logs/
+
+# Reports (generated output)
+reports/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Environment
+.env
+venv/
+.venv/
